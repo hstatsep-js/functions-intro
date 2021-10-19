@@ -1,3 +1,3 @@
-# functions-fav-num-refactoring
+# functions-refactoring
 
 Follow the instructions on `script.js`
