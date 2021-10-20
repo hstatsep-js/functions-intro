@@ -1,6 +1,6 @@
 /* INSTRUCTIONS */
 // "refactor" means to to improve existing code without changing the result
-// So before changing the code, make sure you press "run" to see what the result/output is. You should see the favorite number change from 5 to 10.
+// So before changing the code, make sure run the program to see what the result/output is. You should see the favorite number change from 5 to 10.
 // Refactor the program so that it uses a function (overall less lines of code) but STILL shows the SAME output!
 
 var favNum = 5;
